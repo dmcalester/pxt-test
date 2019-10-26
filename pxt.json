@@ -1,8 +1,7 @@
 {
     "name": "Untitled",
     "dependencies": {
-        "circuit-playground": "*",
-        "helloworld": "file:../pxt-test"
+        "circuit-playground": "*"
     },
     "description": "",
     "files": [
